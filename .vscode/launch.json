@@ -1,0 +1,42 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - TreeTest",
+			"request": "launch",
+			"mainClass": "TreeTest",
+			"projectName": "java-learn_37640c4a"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - LRU",
+			"request": "launch",
+			"mainClass": "LRU",
+			"projectName": "java-learn_37640c4a"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - TestNotify",
+			"request": "launch",
+			"mainClass": "TestNotify"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - ThreadClass",
+			"request": "launch",
+			"mainClass": "ThreadClass"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - TestClass",
+			"request": "launch",
+			"mainClass": "TestClass"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Pbuilder",
+			"request": "launch",
+			"mainClass": "Pbuilder"
+		}
+	]
+}
